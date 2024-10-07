@@ -9,7 +9,7 @@ import Campus from './Components/Campus/Campus';
 import Testimonials from './Components/Testimonials/Testimonials';
 import Contact from './Components/Contact/Contact';
 import Footer from './Components/Footer/Footer';
-import VideoPlayer from './Components/videoPlayer/VideoPlayer';
+import VideoPlayer from './Components/VideoPlayer/VideoPlayer';
 import Gallery from './Components/Campus/Gallery'; 
 
 const App = () => {
