@@ -34,6 +34,8 @@ const App = () => {
                 <Title subTitle="TESTIMONIALS" title="What Clients Say" />
                 <Testimonials />
                 <Title subTitle="Contact Us" title="Get in Touch" />
+
+                
                 <Contact />
                 <Footer />
               </div>
