@@ -39,7 +39,7 @@ const slideBackward = () => {
                         <img src={user_1} alt="" />
                         <div>
                             <h3>Nar Bahadur Hamal</h3>
-                            <span>Nepalgunj, Banke, Nepal</span>
+                            <span>Nepalgunj,Banke, Nepal</span>
                         </div>
                     </div>
                     <p>        
