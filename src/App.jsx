@@ -31,7 +31,7 @@ const App = () => {
                 <About setPlayState={setPlayState} />
                 <Title subTitle="Gallery" title="See About Us" />
                 <Campus />
-                <Title subTitle="TESTIMONIALS" title="What Farmers Say" />
+                <Title subTitle="TESTIMONIALS" title="What Clients Say" />
                 <Testimonials />
                 <Title subTitle="Contact Us" title="Get in Touch" />
                 <Contact />
