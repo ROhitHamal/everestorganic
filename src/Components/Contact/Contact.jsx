@@ -45,7 +45,7 @@ const Contact = () => {
         <ul>
             <li><img src={mail_icon} alt="" />everestagro.2070@gmail.com</li>
             <li><img src={phone_icon} alt="" />+977 9858068555</li>
-            <li><img src={location_icon} alt="" />Nepalgunj-18, Banke ,Nepal</li>
+            <li><img src={location_icon} alt="" />Nepalgunj-18, Banke, Nepal</li>
         </ul>
       </div>
 

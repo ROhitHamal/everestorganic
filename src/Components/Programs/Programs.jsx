@@ -31,7 +31,7 @@ const Programs = () => {
         <img src={program_3} alt='' />
         <div className="caption">
           <img src={program_icon_3} alt='' />
-          <p>Vermi-Culture Traning</p>
+          <p>Vermi-Culture Training</p>
         </div>
       </div>
 
